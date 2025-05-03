@@ -1,0 +1,7 @@
+pandas
+seaborn
+matplotlib
+scikit-learn
+
+
+pip install -r requirements.txt EN EL ENVIRONMENT ACTIVADO
